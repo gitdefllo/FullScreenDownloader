@@ -1,0 +1,37 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/frame_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity" >
+    
+    <LinearLayout
+    	android:layout_width="match_parent"
+    	android:layout_height="match_parent"
+    	android:orientation="vertical"
+    	android:background="#ff222d39"
+    	android:gravity="center" >
+
+    	<TextView
+        	android:id="@+id/text"
+        	android:layout_width="wrap_content"
+        	android:layout_height="wrap_content"
+        	android:text="Press below to download"
+        	android:layout_gravity="center_horizontal"
+        	android:textColor="#9effffff" />
+    
+    	<Button
+        	android:id="@+id/button"
+        	android:layout_width="wrap_content"
+        	android:layout_height="wrap_content"
+        	android:text="Press me!"
+        	android:layout_gravity="center_horizontal"
+        	android:paddingTop="10dip" android:paddingBottom="10dip"
+        	android:paddingLeft="20dip" android:paddingRight="20dip"
+        	android:layout_marginTop="20dip"
+	        android:textColor="#ffffffff"
+        	android:background="@drawable/button_background" />
+    	
+    </LinearLayout>
+
+</FrameLayout>
