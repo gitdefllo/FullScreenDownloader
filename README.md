@@ -16,7 +16,7 @@ In this application:
   * AsyncTask with Callbacks from Fragment
 
 
-## Library Docs
+Library Docs
 ====================
 
   * Built with <a href="http://actionbarsherlock.com/" target="_blank">ActionBarSherlock (4.4.0)</a>
