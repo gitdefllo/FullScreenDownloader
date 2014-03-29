@@ -9,11 +9,10 @@ About
 ====================
 
 This project is a demo from great topic on Alex Lockwood's blog: <a href="http://www.androiddesignpatterns.com/2013/04/retaining-objects-across-config-changes.html" target="_blank">Handling Configuration Changes with Fragments</a>. 
-
 In this application:
-  * FullScreen mode in Fragment
-  * Handle rotation with setRetainInstance method
-  * AsyncTask with Callbacks from Fragment
+  * FullScreen mode in Fragment only
+  * Handle rotation with <b>setRetainInstance</b> method
+  * <b>AsyncTask with Callbacks</b> from Fragment
 
 
 Library Docs
