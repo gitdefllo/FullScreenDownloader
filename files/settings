@@ -1,8 +1,0 @@
-Settings Project
-======================
-
-This project use ActionBarSherlock (v.4.0.4)
-Built with Eclipse (Juno) and Android SDK
-Version android:
-  minVersion:    7
-  targetVersion: 19
