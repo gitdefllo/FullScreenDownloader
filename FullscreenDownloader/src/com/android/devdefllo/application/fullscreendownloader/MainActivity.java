@@ -39,7 +39,9 @@ public class MainActivity extends SherlockFragmentActivity implements FullScreen
 			}
 		});
 	}
-
+	
+	// AsyncTask
+	
 	@Override
 	public void onPreExecute() {  }
 
